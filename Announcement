@@ -5,6 +5,5 @@ Moon V1.0 Release-
 [+] - Tab Icons
 [/] - Changed Script-Hub Button Tooltips
 [+] - Optimized Loader/Executor on low-end devices
-[+] - AutoAttach now saves
 [+] - ScriptBox auto repairs
 [/] - We are working on a fix for the issue where the editor theme isnt applied on launch
