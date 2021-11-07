@@ -1,7 +1,10 @@
-Moon - Beta has been released!
--Website coming soon
--Fixed WebClient data sender
--Added closing/minimizing animations
--Added top panel icons
--Added News button
--New Monaco functions
+Moon V1.0 Release-
+
+[+] - Repair ScriptBox Button
+[+] - Games on Script-Hub
+[+] - Tab Icons
+[/] - Changed Script-Hub Button Tooltips
+[+] - Optimized Loader/Executor on low-end devices
+[+] - AutoAttach now saves
+[+] - ScriptBox auto repairs
+[/] - We are working on a fix for the issue where the editor theme isnt applied on launch
