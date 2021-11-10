@@ -1,9 +1,7 @@
-Moon V1.0 Release-
+Moon 1.1 Release: 
 
-[+] - Repair ScriptBox Button
-[+] - Games on Script-Hub
-[+] - Tab Icons
-[/] - Changed Script-Hub Button Tooltips
-[+] - Optimized Loader/Executor on low-end devices
-[+] - ScriptBox auto repairs
-[/] - We are working on a fix for the issue where the editor theme isnt applied on launch
+[+] - MoonConsole 
+[+] - Re-Install Files Button
+[+] - Closing animation on all windows
+[+] - Autoattach now saves
+[+] - Launch ROBLOX button (in options)
